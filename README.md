@@ -1,6 +1,5 @@
-# fsdse-python-assignment-105
+# Find the single different char between two strings.
 
-# Given two strings, find the single different char
 ## Constraints
 * Can we assume the strings are ASCII?
 	* Yes
