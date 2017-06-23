@@ -9,4 +9,4 @@ def find_diff(s1,s2):
 
 
 
-find_diff('aaabbbccdd','aabbccddee')
+find_diff('aaabbbccddee','aabbccddeeff')
