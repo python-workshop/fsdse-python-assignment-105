@@ -10,3 +10,6 @@ def find_diff(s1,s2):
     diff_2 = str2.difference(str1)     # set(different element)
     diff_1.update(diff_2)              # Update the empty set with different element
     return diff_1.pop()                # Removes the different element
+
+# find_diff("aabbcdd", "aabbcdde")
+# Output : 'e'
